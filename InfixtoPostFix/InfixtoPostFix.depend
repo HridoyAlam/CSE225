@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1510305715 source:c:\users\hridoy\desktop\new folder (2)\infixtopostfix\infixtopostfix\main.cpp
+	<iostream>
+	"StackType.cpp"
+	"stdio.h"
+	"string.h"
+
+1510296013 c:\users\hridoy\desktop\new folder (2)\infixtopostfix\infixtopostfix\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1510296068 c:\users\hridoy\desktop\new folder (2)\infixtopostfix\infixtopostfix\stacktype.h
+	<iostream>
+
+1510296013 source:c:\users\hridoy\desktop\new folder (2)\infixtopostfix\infixtopostfix\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1510296013 source:c:\users\hridoy\desktop\fall-17\infixtopostfix\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1510296068 c:\users\hridoy\desktop\fall-17\infixtopostfix\stacktype.h
+	<iostream>
+
+1510306114 source:c:\users\hridoy\desktop\fall-17\infixtopostfix\main.cpp
+	<iostream>
+	"StackType.cpp"
+	"stdio.h"
+	"string.h"
+
+1510296013 c:\users\hridoy\desktop\fall-17\infixtopostfix\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
