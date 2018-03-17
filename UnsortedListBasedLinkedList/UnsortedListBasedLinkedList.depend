@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508740035 source:c:\users\administrator\desktop\unsortedlistbasedlinkedlist\main.cpp
+	"Unsorted.h"
+	"Unsorted.cpp"
+	<iostream>
+
+1508740100 c:\users\administrator\desktop\unsortedlistbasedlinkedlist\unsorted.h
+
+1508740157 c:\users\administrator\desktop\unsortedlistbasedlinkedlist\unsorted.cpp
+	"Unsorted.h"
+	<iostream>
+
