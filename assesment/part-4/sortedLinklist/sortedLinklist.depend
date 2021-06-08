@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1617993948 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-4\sortedlinklist\main.cpp
+	<iostream>
+	"sorted.h"
+	"sorted.cpp"
+
+1617993351 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-4\sortedlinklist\sorted.cpp
+	<bits/stdc++.h>
+	"sorted.h"
+
+1617989720 d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-4\sortedlinklist\sorted.h
+
+1617994179 d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-4\sortedlinklist\sorted.cpp
+	<bits/stdc++.h>
+	"sorted.h"
+

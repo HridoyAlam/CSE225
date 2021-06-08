@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1616403237 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 5\sortedtype\sortedtype.cpp
+	<bits/stdc++.h>
+	"SortedType.h"
+
+1616393336 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 5\sortedtype\sortedtype.h
+
+1616403811 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 5\sortedtype\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"SortedType.cpp"
+	"time.h"
+
+1616403237 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 5\sortedtype\sortedtype.cpp
+	<bits/stdc++.h>
+	"SortedType.h"
+
+1616403097 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 5\sortedtype\time.h
+	<bits/stdc++.h>
+
+1616403159 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 5\sortedtype\time.cpp
+	<bits/stdc++.h>
+	"time.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615320377 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 3\complex_assigment_3\complex.cpp
+	"complex.h"
+	<bits/stdc++.h>
+
+1615320455 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 3\complex_assigment_3\complex.h
+
+1615319084 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 3\complex_assigment_3\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"complex.h"
+

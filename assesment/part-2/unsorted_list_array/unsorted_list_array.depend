@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1616353916 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 4\unsorted_list_array\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	"unsorted.cpp"
+	"student.h"
+
+1616351831 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 4\unsorted_list_array\unsorted.cpp
+	"unsorted.h"
+	<bits/stdc++.h>
+
+1615471751 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 4\unsorted_list_array\unsorted.h
+
+1616351831 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 4\unsorted_list_array\unsorted.cpp
+	"unsorted.h"
+	<bits/stdc++.h>
+
+1616350968 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 4\unsorted_list_array\student.cpp
+	"student.h"
+	<bits/stdc++.h>
+
+1616351839 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 4\unsorted_list_array\student.h
+	<bits/stdc++.h>
+
+1618068892 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-2\part-2 - copy\unsorted_list_array\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	"unsorted.cpp"
+	"student.h"
+
+1618067251 d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-2\part-2 - copy\unsorted_list_array\unsorted.cpp
+	"unsorted.h"
+	<bits/stdc++.h>
+
+1618067230 d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-2\part-2 - copy\unsorted_list_array\unsorted.h
+
+1618070036 d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-2\part-2 - copy\unsorted_list_array\student.h
+	<bits/stdc++.h>
+	"unsorted.h"
+
+1618067251 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-2\part-2 - copy\unsorted_list_array\unsorted.cpp
+	"unsorted.h"
+	<bits/stdc++.h>
+
+1618069540 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-2\part-2 - copy\unsorted_list_array\student.cpp
+	"student.h"
+	"unsorted.cpp"
+	<bits/stdc++.h>
+
+1618073557 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-2\experiment\unsorted_list_array\student.cpp
+	"student.h"
+	"unsorted.cpp"
+	<bits/stdc++.h>
+
+1618071084 d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-2\experiment\unsorted_list_array\student.h
+	<bits/stdc++.h>
+	"unsorted.h"
+
+1618073462 d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-2\experiment\unsorted_list_array\unsorted.h
+
+1618073450 d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-2\experiment\unsorted_list_array\unsorted.cpp
+	"unsorted.h"
+	<bits/stdc++.h>
+
+1618073450 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-2\experiment\unsorted_list_array\unsorted.cpp
+	"unsorted.h"
+	<bits/stdc++.h>
+
+1618072862 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assesment\part-2\experiment\unsorted_list_array\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	"unsorted.cpp"
+	"student.h"
+

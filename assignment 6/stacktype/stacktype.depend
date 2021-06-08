@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1616507796 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 6\stacktype\stacktype.cpp
+	"stacktype.h"
+	<bits/stdc++.h>
+
+1616505224 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 6\stacktype\stacktype.h
+
+1616512476 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 6\stacktype\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	"stacktype.cpp"
+
+1616507796 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 6\stacktype\stacktype.cpp
+	"stacktype.h"
+	<bits/stdc++.h>
+

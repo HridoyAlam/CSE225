@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1616743978 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 07\queue\queue.cpp
+	"Queue.h"
+	<bits/stdc++.h>
+
+1616742647 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 07\queue\queue.h
+
+1616744008 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 07\queue\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Queue.cpp"
+
+1616743978 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 07\queue\queue.cpp
+	"Queue.h"
+	<bits/stdc++.h>
+
+1616757129 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 7\queue\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Queue.cpp"
+
+1616752888 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 7\queue\queue.cpp
+	"Queue.h"
+	<bits/stdc++.h>
+
+1616757330 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 7\queue\queue.h
+
+1616752888 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 7\queue\queue.cpp
+	"Queue.h"
+	<bits/stdc++.h>
+
+1621872458 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\final assignment\new folder\queue\queue.cpp
+	"Queue.h"
+	<bits/stdc++.h>
+
+1621872127 d:\study\nsu semester\spring 21\cse225 lab\lab class\final assignment\new folder\queue\queue.h
+

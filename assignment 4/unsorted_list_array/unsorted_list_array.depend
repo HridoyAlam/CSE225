@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1616353916 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 4\unsorted_list_array\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	"unsorted.cpp"
+	"student.h"
+
+1616351831 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 4\unsorted_list_array\unsorted.cpp
+	"unsorted.h"
+	<bits/stdc++.h>
+
+1615471751 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 4\unsorted_list_array\unsorted.h
+
+1616351831 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 4\unsorted_list_array\unsorted.cpp
+	"unsorted.h"
+	<bits/stdc++.h>
+
+1616350968 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 4\unsorted_list_array\student.cpp
+	"student.h"
+	<bits/stdc++.h>
+
+1616351839 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 4\unsorted_list_array\student.h
+	<bits/stdc++.h>
+

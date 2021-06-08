@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1614877947 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 2\task3 lab3\main.cpp
+	"task3.h"
+	<iostream>
+
+1614878145 d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 2\task3 lab3\task3.h
+
+1614878173 source:d:\study\nsu semester\spring 21\cse225 lab\lab class\assignment 2\task3 lab3\task3.cpp
+	"task3.h"
+	<bits/stdc++.h>
+
